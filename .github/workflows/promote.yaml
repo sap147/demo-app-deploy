@@ -50,3 +50,4 @@ on:
             git push origin auto-promotion-prod --force
             gh pr create --title "chore(prod): promote to \`$IMAGE\`" --body "Promote \`prod\` to \`$IMAGE\`" --base main --head auto-promotion-prod
           fi
+          
