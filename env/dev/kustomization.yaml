@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/sap147/demo-app
-  newTag: 27b51b8c08a2bd0ac8d4be54e47605693d9678e4
+  newTag: d4679ede7b9ed15c4343c2d1aee4e717d3285263
